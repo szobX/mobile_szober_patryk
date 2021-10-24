@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ae1SHKkijj1hyyfYzsd2biuqSz5Xwej2EAnh1SNqM0qrCduFiU2V6vu9hJKoOsqxd5SwZKbicPadJ4lUE0K3sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Szobi\\Desktop\\mslearn-xamarin-forms-create-mobile-app-master\\src\\exercise1\\final\\Phoneword\\Phoneword\\Phoneword.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Szobi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Szobi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Szobi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Szobi\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Szobi\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}

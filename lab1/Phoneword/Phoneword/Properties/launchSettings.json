@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Phoneword": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}

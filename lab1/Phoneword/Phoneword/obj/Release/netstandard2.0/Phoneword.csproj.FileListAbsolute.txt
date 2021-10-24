@@ -1,0 +1,13 @@
+C:\Users\Szobi\Desktop\mslearn-xamarin-forms-create-mobile-app-master\src\exercise1\final\Phoneword\Phoneword\bin\Release\netstandard2.0\Phoneword.deps.json
+C:\Users\Szobi\Desktop\mslearn-xamarin-forms-create-mobile-app-master\src\exercise1\final\Phoneword\Phoneword\bin\Release\netstandard2.0\Phoneword.dll
+C:\Users\Szobi\Desktop\mslearn-xamarin-forms-create-mobile-app-master\src\exercise1\final\Phoneword\Phoneword\bin\Release\netstandard2.0\ref\Phoneword.dll
+C:\Users\Szobi\Desktop\mslearn-xamarin-forms-create-mobile-app-master\src\exercise1\final\Phoneword\Phoneword\bin\Release\netstandard2.0\Phoneword.pdb
+C:\Users\Szobi\Desktop\mslearn-xamarin-forms-create-mobile-app-master\src\exercise1\final\Phoneword\Phoneword\obj\Release\netstandard2.0\Phoneword.csproj.AssemblyReference.cache
+C:\Users\Szobi\Desktop\mslearn-xamarin-forms-create-mobile-app-master\src\exercise1\final\Phoneword\Phoneword\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Szobi\Desktop\mslearn-xamarin-forms-create-mobile-app-master\src\exercise1\final\Phoneword\Phoneword\obj\Release\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+C:\Users\Szobi\Desktop\mslearn-xamarin-forms-create-mobile-app-master\src\exercise1\final\Phoneword\Phoneword\obj\Release\netstandard2.0\Phoneword.AssemblyInfo.cs
+C:\Users\Szobi\Desktop\mslearn-xamarin-forms-create-mobile-app-master\src\exercise1\final\Phoneword\Phoneword\obj\Release\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+C:\Users\Szobi\Desktop\mslearn-xamarin-forms-create-mobile-app-master\src\exercise1\final\Phoneword\Phoneword\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Szobi\Desktop\mslearn-xamarin-forms-create-mobile-app-master\src\exercise1\final\Phoneword\Phoneword\obj\Release\netstandard2.0\Phoneword.dll
+C:\Users\Szobi\Desktop\mslearn-xamarin-forms-create-mobile-app-master\src\exercise1\final\Phoneword\Phoneword\obj\Release\netstandard2.0\ref\Phoneword.dll
+C:\Users\Szobi\Desktop\mslearn-xamarin-forms-create-mobile-app-master\src\exercise1\final\Phoneword\Phoneword\obj\Release\netstandard2.0\Phoneword.pdb
